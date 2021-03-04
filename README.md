@@ -37,3 +37,6 @@ Following is sample data in the TSV files:-
 
 1. If you have to support 100x the volume of data what would you change in the architecture, schema etc ?
 2. How will you support realtime ingestion of a data feed of ticker data ?
+
+**Mock of the timeseries chart**
+![Mock of timeseries](timeseries_mock.png?raw=true "Mock for timeseries visualization")
